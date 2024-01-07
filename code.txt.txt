@@ -6,13 +6,6 @@ git add 'filename' ----> to stage any file
 
 git add . -----> to stage all the files
 
-git status ----> to get the status of the file
-( if it is red, then it is not staged)
-(if it is green, then it is staged)
-
-git commit -m 'First commitment' -------> something about your code
-
-git log ----> to get commit id
 
 
 
